@@ -1,0 +1,14 @@
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /favicon.ico
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /admin
+El usuario ingreso a la ruta: /admin
+1668045474082 - El usuario ingreso a la ruta: /admin
+1668045487893 - El usuario ingreso a la ruta: /
+Wed Nov 09 2022 23:00:21 GMT-0300 (hora estándar de Argentina) - El usuario ingreso a la ruta: /admin
+Wed Nov 09 2022 23:00:24 GMT-0300 (hora estándar de Argentina) - El usuario ingreso a la ruta: /admin
+Wed Nov 09 2022 - El usuario ingreso a la ruta: /admin
+Wed Nov 09 2022 - El usuario ingreso a la ruta: /
+9/11/2022 - El usuario ingreso a la ruta: /
+9/11/2022 - El usuario ingreso a la ruta: /admin
